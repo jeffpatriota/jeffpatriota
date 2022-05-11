@@ -1,6 +1,6 @@
 ## Olá, meu nome é Jefferson Patriota, atuo com desenvolvimento de software e estou cursando o último semestre de Análise e Desenvolvimento de Sistemas!
 
-<div align="justify">
+<div align="center">
   <a href="https://github.com/jeffpatriota">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffpatriota&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffpatriota&layout=compact&langs_count=7&theme=dark"/>
