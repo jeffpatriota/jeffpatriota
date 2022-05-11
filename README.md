@@ -1,5 +1,4 @@
-## Olá, eu sou o Jefferson Patriota, 
-## estudante de Análise e Desenvolvimento de Sistemas e atuo com desenvolvimento de software!
+## Olá, eu sou o Jefferson Patriota, atuo com desenvolvimento de software!
 
 <div align="center">
   <a href="https://github.com/jeffpatriota">
