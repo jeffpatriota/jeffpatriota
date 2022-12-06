@@ -1,4 +1,4 @@
-## Olá, meu nome é Jefferson Patriota, atuo com desenvolvimento de software e estou cursando o último semestre de Análise e Desenvolvimento de Sistemas!
+## Olá, meu nome é Jefferson Patriota, atuo com desenvolvimento de software e sou formado em Análise e Desenvolvimento de Sistemas!
 
 <div align="justify">
   <a href="https://github.com/jeffpatriota">
